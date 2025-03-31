@@ -1,11 +1,11 @@
 # This template CITATION.cff file was generated with cffinit.
 # Visit https://bit.ly/cffinit to replace its contents
 # with information about your lesson.
-# Remember to update this file periodically, 
+# Remember to update this file periodically,
 # ensuring that the author list and other fields remain accurate.
 
 cff-version: 1.2.0
-title: FIXME
+title: Introduction to DNA Data Publishing
 message: >-
   Please cite this lesson using the information in this file
   when you refer to it in publications, and/or if you
@@ -13,10 +13,8 @@ message: >-
   training material.
 type: dataset
 authors:
-  - given-names: FIXME
-    family-names: FIXME
+  - given-names: Stephen
+    family-names: Formel
 abstract: >-
-  FIXME Replace this with a short abstract describing the
-  lesson, e.g. its target audience and main intended
-  learning objectives.
+  This lesson was developed by GBIF North America for an online workshop taught in April 2025
 license: CC-BY-4.0
